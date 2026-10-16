@@ -1,4 +1,4 @@
-# Network Assignment Using Cisco Packet Tracer
+# Network Project Using Cisco Packet Tracer
 
 This project demonstrates the design, configuration, and testing of a departmental network for **TechNova Ltd** using Cisco Packet Tracer. It connects the IT, Sales, and HR departments through a router and switches, with a central server providing network services. The project also implements DHCP and Access Control Lists (ACLs) to manage IP address allocation, control departmental access, and maintain access to essential server services.
 
